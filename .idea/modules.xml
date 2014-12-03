@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/filetree/filetree.iml" filepath="$PROJECT_DIR$/filetree/filetree.iml" />
+      <module fileurl="file://E:/import/resources_all/wie-TemplateEngine/wie-TemplateEngine.iml" filepath="E:/import/resources_all/wie-TemplateEngine/wie-TemplateEngine.iml" />
+      <module fileurl="file://E:/import/resources_all/wie-common/wie-common.iml" filepath="E:/import/resources_all/wie-common/wie-common.iml" />
+      <module fileurl="file://E:/import/resources_all/wie-controler/wie-controler.iml" filepath="E:/import/resources_all/wie-controler/wie-controler.iml" />
+      <module fileurl="file://E:/import/resources_all/wie-core/wie-core.iml" filepath="E:/import/resources_all/wie-core/wie-core.iml" />
+      <module fileurl="file://E:/import/resources_all/wie-dynamic/wie-dynamic.iml" filepath="E:/import/resources_all/wie-dynamic/wie-dynamic.iml" />
+      <module fileurl="file://E:/import/resources_all/wie-frameworkbase/wie-frameworkbase.iml" filepath="E:/import/resources_all/wie-frameworkbase/wie-frameworkbase.iml" />
+      <module fileurl="file://E:/import/resources_all/wie-parent/wie-parent.iml" filepath="E:/import/resources_all/wie-parent/wie-parent.iml" />
+      <module fileurl="file://E:/import/resources_all/wie-service_erp/wie-service_erp.iml" filepath="E:/import/resources_all/wie-service_erp/wie-service_erp.iml" />
+      <module fileurl="file://E:/import/resources_all/wie-service_permission/wie-service_permission.iml" filepath="E:/import/resources_all/wie-service_permission/wie-service_permission.iml" />
+      <module fileurl="file://E:/import/resources_all/wie-tree/wie-tree.iml" filepath="E:/import/resources_all/wie-tree/wie-tree.iml" />
+      <module fileurl="file://E:/import/resources_all/wie-web/wie-web.iml" filepath="E:/import/resources_all/wie-web/wie-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspace_erp.iml" filepath="$PROJECT_DIR$/workspace_erp.iml" />
+    </modules>
+  </component>
+</project>

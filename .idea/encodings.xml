@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/filetree" charset="UTF-8" />
+    <file url="file://E:/import/resources_all/wie-TemplateEngine" charset="UTF-8" />
+    <file url="file://E:/import/resources_all/wie-common" charset="UTF-8" />
+    <file url="file://E:/import/resources_all/wie-controler" charset="UTF-8" />
+    <file url="file://E:/import/resources_all/wie-core" charset="UTF-8" />
+    <file url="file://E:/import/resources_all/wie-dynamic" charset="UTF-8" />
+    <file url="file://E:/import/resources_all/wie-frameworkbase" charset="UTF-8" />
+    <file url="file://E:/import/resources_all/wie-parent" charset="UTF-8" />
+    <file url="file://E:/import/resources_all/wie-service_erp" charset="UTF-8" />
+    <file url="file://E:/import/resources_all/wie-service_permission" charset="UTF-8" />
+    <file url="file://E:/import/resources_all/wie-tree" charset="UTF-8" />
+    <file url="file://E:/import/resources_all/wie-web" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
